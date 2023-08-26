@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Shoyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoyabsiddique0)](https://github.com/shoyabsiddique0/github-readme-stats)
 
 <!--
 **shoyabsiddique0/shoyabsiddique0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
